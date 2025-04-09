@@ -1,7 +1,7 @@
 ###  DATE:26.03.2025 
 ###  NAME: ROHITH HARIHARAN M
 ###  ROLL NO :212223220087
-###  DEPARTMENT:CSE(CS)
+###  DEPARTMENT:IT
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
